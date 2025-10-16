@@ -1,4 +1,4 @@
-# controlediabete
+# insulinmanager
 
 A new Flutter project.
 

@@ -1,6 +1,6 @@
 {
-    "name": "controlediabete",
-    "short_name": "controlediabete",
+    "name": "insulinmanager",
+    "short_name": "insulinmanager",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
